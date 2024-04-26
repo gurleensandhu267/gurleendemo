@@ -1,3 +1,4 @@
 # gurleendemo
-this is my practical practice repo
-author-gurleen kaur
+this is my practical practice repo.
+<br>
+Author-Gurleen Kaur
